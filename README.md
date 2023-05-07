@@ -5,7 +5,7 @@
 <!--  👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about languages and I will talk with you for hours.
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<!-- - 📫 How to reach me: ... -->
+- 😄 Pronouns: He/his Ele/dele
+<!-- - ⚡ Fun fact: ... -->
 
