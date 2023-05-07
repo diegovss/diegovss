@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovss)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on private projects for CTW (Critical Techworks)
 - 🌱 I’m currently learning Terraform and AWS Services
