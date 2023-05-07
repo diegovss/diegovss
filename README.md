@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovss)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovss)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovss&layout=compact)]
 
 
 - 🔭 I’m currently working on private projects for CTW (Critical Techworks)
